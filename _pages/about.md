@@ -113,12 +113,11 @@ My research interests include deep learning and artificial intelligence, machine
 </div>
 </div>
 
--<p style="background-color:#007BFF; color:white; display:inline-block; padding:2px 6px; border-radius:3px; font-size:14px;">
-  Advanced Engineering Informatics, 2022
-</p>
-[Yalin Wang, Diju Liu, Chenliang Liu, Xiaofeng Yuan, Kai Wang, Chunhua Yang, Dynamic historical information incorporated attention deep learning model for industrial soft sensor modeling, Advanced Engineering Informatics, Volume 52, 2022, 101590](https://www.sciencedirect.com/science/article/abs/pii/S1474034622000623) **([Download PDF](./papers/AEI2022.pdf))**
+-[Yalin Wang, **Diju Liu**, Chenliang Liu, Xiaofeng Yuan, Kai Wang, Chunhua Yang, Dynamic historical information incorporated attention deep learning model for industrial soft sensor modeling, **Advanced Engineering Informatics**, Volume 52, 2022, 101590](https://www.sciencedirect.com/science/article/abs/pii/S1474034622000623) **([Download PDF](./papers/AEI2022.pdf))**
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+-[Xiangyu Peng, Yalin Wang, Chenliang Liu, Lin Guan and **Diju Liu(Corresponding Author)**. Dynamic-static collaborative strategy for industrial data modeling based on hierarchical deep networks[J]. Measurement Science and Technology, 2022, 33(12): 125010.](https://iopscience.iop.org/article/10.1088/1361-6501/ac86e6/meta) **([Download PDF](./papers/MST2022.pdf))**
+
+-[Yalin Wang, Rao Dai, **Diju Liu(Corresponding Author)**, Kai Wang, Xiaofeng Yuan and Chenliang Liu. A task-oriented deep learning framework based on target-related transformer network for industrial quality prediction applications\[J\]. Engineering Applications of Artificial Intelligence, 2024, 133: 108361.](https://iopscience.iop.org/article/10.1088/1361-6501/ac86e6/meta) **([Download PDF](./papers/EAAI2024.pdf))**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
