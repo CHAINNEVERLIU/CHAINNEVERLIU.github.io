@@ -83,10 +83,10 @@ My research interests include deep learning and artificial intelligence, machine
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SGMCAI-DiT, TKDE 2024 (CCF A)</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SGMCAI-DiT, TKDE 2024 (CCF A)</div><img src='images/TKDE2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Scope-Free Global Multi-Condition-Aware Industrial Missing Data Imputation Framework via Diffusion Transformer.](https://ieeexplore.ieee.org/abstract/document/10508098)
+[Scope-Free Global Multi-Condition-Aware Industrial Missing Data Imputation Framework via Diffusion Transformer.](https://ieeexplore.ieee.org/abstract/document/10508098) **([Download PDF])**(./papers/TKDE2024.pdf)
 
 **Diju Liu**, Wang, Yalin and Liu, Chenliang and Yuan, Xiaofeng and Wang, Kai and Yang, Chunhua}
 
