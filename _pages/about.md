@@ -47,12 +47,25 @@ My research interests include deep learning and artificial intelligence, machine
 
 **Abstract**<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Proposed a novel data mode-related attention mechanism that enhances the predictive modeling capability for industrial processes.
-</div>
-</div>
 
 **Citation**
 - D. Liu, Y. Wang, C. Liu, X. Yuan, C. Yang and W. Gui, Data Mode Related Interpretable Transformer Network for Predictive Modeling and Key Sample Analysis in Industrial Processes, IEEE Transactions on Industrial Informatics, vol. 19, no. 9, pp. 9325-9336, 2023.
+</div>
+</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DMRI-Former, TII 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[Data Mode Related Interpretable Transformer Network for Predictive Modeling and Key Sample Analysis in Industrial Processes.](https://ieeexplore.ieee.org/abstract/document/9976255)
+
+**Diju Liu**, Wang, Yalin and Liu, Chenliang and Yuan, Xiaofeng and Yang, Chunhua and Gui, Weihua
+
+**Abstract**<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Proposed a novel data mode-related attention mechanism that enhances the predictive modeling capability for industrial processes.
+
+**Citation**
+- D. Liu, Y. Wang, C. Liu, X. Yuan, C. Yang and W. Gui, Data Mode Related Interpretable Transformer Network for Predictive Modeling and Key Sample Analysis in Industrial Processes, IEEE Transactions on Industrial Informatics, vol. 19, no. 9, pp. 9325-9336, 2023.
+</div>
+</div>
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
