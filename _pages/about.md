@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
+# 🚩 About Me
 During his Ph.D. studies, under the guidance of [Prof. Yalin Wang](https://faculty.csu.edu.cn/wangyalin/zh_CN/index.htm), he focused on intelligent sensing and optimization of chemical processes in Salt Lake resource utilization. He developed an integrated production control system, which has been successfully implemented in the world's largest single potassium sulfate producer, significantly enhancing operational efficiency and generating substantial socio-economic benefits.
 
 He has published 11 academic papers as the first or corresponding author, including 9 SCI-indexed journal articles, 3 ESI top 1% highly cited papers, and holds 6 authorized or applied invention patents. Additionally, he has registered 3 software copyrights, contributed to the formulation of 2 group standards, led a postgraduate scientific research and innovation project in Hunan Province, and received 5 national discipline competition awards.
