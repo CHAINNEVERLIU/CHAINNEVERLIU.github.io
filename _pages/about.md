@@ -38,10 +38,10 @@ My research interests include deep learning and artificial intelligence, machine
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DMRI-Former, TII 2023 (ESI Top 1% Highly Cited)</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DMRI-Former, TII 2023 (ESI Top 1% Highly Cited)</div><img src='images/TII2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Data Mode Related Interpretable Transformer Network for Predictive Modeling and Key Sample Analysis in Industrial Processes.](https://ieeexplore.ieee.org/abstract/document/9976255)
+[Data Mode Related Interpretable Transformer Network for Predictive Modeling and Key Sample Analysis in Industrial Processes.](https://ieeexplore.ieee.org/abstract/document/9976255) **([Download PDF](./papers/TII2023.pdf))**
 
 **Diju Liu**, Wang, Yalin and Liu, Chenliang and Yuan, Xiaofeng and Yang, Chunhua and Gui, Weihua
 
