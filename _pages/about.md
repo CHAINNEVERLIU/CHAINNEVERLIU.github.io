@@ -38,7 +38,7 @@ My research interests include deep learning and artificial intelligence, machine
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DMRI-Former, TII 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DMRI-Former, TII 2023 (ESI Top 1% Highly Cited)</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Data Mode Related Interpretable Transformer Network for Predictive Modeling and Key Sample Analysis in Industrial Processes.](https://ieeexplore.ieee.org/abstract/document/9976255)
@@ -52,20 +52,52 @@ My research interests include deep learning and artificial intelligence, machine
 - D. Liu, Y. Wang, C. Liu, X. Yuan, C. Yang and W. Gui, Data Mode Related Interpretable Transformer Network for Predictive Modeling and Key Sample Analysis in Industrial Processes, IEEE Transactions on Industrial Informatics, vol. 19, no. 9, pp. 9325-9336, 2023.
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DMRI-Former, TII 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Masked-Former, TASE 2024 (ESI Top 1% Highly Cited)</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Data Mode Related Interpretable Transformer Network for Predictive Modeling and Key Sample Analysis in Industrial Processes.](https://ieeexplore.ieee.org/abstract/document/9976255)
+[Blackout Missing Data Recovery in Industrial Time Series Based on Masked-Former Hierarchical Imputation Framework.](https://ieeexplore.ieee.org/abstract/document/10163894)
 
-**Diju Liu**, Wang, Yalin and Liu, Chenliang and Yuan, Xiaofeng and Yang, Chunhua and Gui, Weihua
+**Diju Liu**, Wang, Yalin and Liu, Chenliang and Wang, Kai and Yuan, Xiaofeng and Yang, Chunhua
 
 **Abstract**<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Proposed a novel data mode-related attention mechanism that enhances the predictive modeling capability for industrial processes.
+- Proposed XXXX.
 
 **Citation**
-- D. Liu, Y. Wang, C. Liu, X. Yuan, C. Yang and W. Gui, Data Mode Related Interpretable Transformer Network for Predictive Modeling and Key Sample Analysis in Industrial Processes, IEEE Transactions on Industrial Informatics, vol. 19, no. 9, pp. 9325-9336, 2023.
+- D. Liu, Y. Wang, C. Liu, K. Wang, X. Yuan and C. Yang, Blackout Missing Data Recovery in Industrial Time Series Based on Masked-Former Hierarchical Imputation Framework, IEEE Transactions on Automation Science and Engineering, vol. 21, no. 2, pp. 1138-1150, 2024.
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Multirate-Former, TIM 2024 (ESI Top 1% Highly Cited)</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Multirate-Former: An Efficient Transformer-Based Hierarchical Network for Multistep Prediction of Multirate Industrial Processes.](https://ieeexplore.ieee.org/abstract/document/10313305)
+
+**Diju Liu**, Wang, Yalin and Liu, Chenliang and Yuan, Xiaofeng and Yang, Chunhua
+
+**Abstract**<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Proposed XXXX.
+
+**Citation**
+- D. Liu, Y. Wang, C. Liu, X. Yuan and C. Yang, Multirate-Former: An Efficient Transformer-Based Hierarchical Network for Multistep Prediction of Multirate Industrial Processes, IEEE Transactions on Instrumentation and Measurement, vol. 73, pp. 1-13, 2024, Art no. 2502313.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SGMCAI-DiT, TKDE 2024 (CCF A)</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Scope-Free Global Multi-Condition-Aware Industrial Missing Data Imputation Framework via Diffusion Transformer.](https://ieeexplore.ieee.org/abstract/document/10508098)
+
+**Diju Liu**, Wang, Yalin and Liu, Chenliang and Yuan, Xiaofeng and Wang, Kai and Yang, Chunhua}
+
+**Abstract**<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Proposed XXXX.
+
+**Citation**
+- D. Liu, Y. Wang, C. Liu, X. Yuan, K. Wang and C. Yang, Scope-Free Global Multi-Condition-Aware Industrial Missing Data Imputation Framework via Diffusion Transformer, IEEE Transactions on Knowledge and Data Engineering, vol. 36, no. 11, pp. 6977-6988, 2024.
+</div>
+</div>
+
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
