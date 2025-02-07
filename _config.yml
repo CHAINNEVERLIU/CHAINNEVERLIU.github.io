@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Diju Liu"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "My research interests include deep learning and artificial intelligence, machine learning and pattern recognition, industrial Big Data and process modeling and control."
 repository               : "CHAINNEVERLIU/CHAINNEVERLIU.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,13 +23,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Diju Liu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Central South University / University of Alberta"
+  bio              : "Central South University"
   location         : "Changhsa, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=wjQ-4AoAAAAJ&hl=zh-CN"
   email            : "djliu@csu.edu.cn"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Diju-Liu?ev=hdr_xprf"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "CHAINNEVERLIU"
   google_plus      :
   keybase          :
   instagram        :
