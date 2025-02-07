@@ -113,18 +113,10 @@ My research interests include deep learning and artificial intelligence, machine
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AD-SAE, AEI 2022</div><img src='images/TKDE2024.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-[Dynamic historical information incorporated attention deep learning model for industrial soft sensor modeling.](https://www.sciencedirect.com/science/article/abs/pii/S1474034622000623) **([Download PDF](./papers/AEI2022.pdf))**
+-<p style="background-color:#007BFF; color:white; display:inline-block; padding:2px 6px; border-radius:3px; font-size:14px;">
+  Advanced Engineering Informatics, 2022
+</p>[Yalin Wang, Diju Liu, Chenliang Liu, Xiaofeng Yuan, Kai Wang, Chunhua Yang, Dynamic historical information incorporated attention deep learning model for industrial soft sensor modeling, Advanced Engineering Informatics, Volume 52, 2022, 101590](https://www.sciencedirect.com/science/article/abs/pii/S1474034622000623) **([Download PDF](./papers/AEI2022.pdf))**
 
-Yalin Wang, **Diju Liu**, Chenliang Liu, Xiaofeng Yuan, Kai Wang, Chunhua Yang
-
-**Abstract**<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Proposed XXXX.
-
-**Citation**
-- Yalin Wang, Diju Liu, Chenliang Liu, Xiaofeng Yuan, Kai Wang, Chunhua Yang, Dynamic historical information incorporated attention deep learning model for industrial soft sensor modeling, Advanced Engineering Informatics, Volume 52, 2022, 101590.
 </div>
 </div>
 
