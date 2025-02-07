@@ -17,14 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-During his Ph.D. studies, he focused on intelligent sensing and optimization of chemical processes in Salt Lake resource utilization. He developed an integrated production control system, which has been successfully implemented in the world's largest single potassium sulfate producer, significantly enhancing operational efficiency and generating substantial socio-economic benefits.
+During his Ph.D. studies, under the guidance of [Prof. Yalin Wang](https://faculty.csu.edu.cn/wangyalin/zh_CN/index.htm), he focused on intelligent sensing and optimization of chemical processes in Salt Lake resource utilization. He developed an integrated production control system, which has been successfully implemented in the world's largest single potassium sulfate producer, significantly enhancing operational efficiency and generating substantial socio-economic benefits.
 
 He has published 11 academic papers as the first or corresponding author, including 9 SCI-indexed journal articles, 3 ESI top 1% highly cited papers, and holds 6 authorized or applied invention patents. Additionally, he has registered 3 software copyrights, contributed to the formulation of 2 group standards, led a postgraduate scientific research and innovation project in Hunan Province, and received 5 national discipline competition awards.
 
-From October 2024 to October 2025, he will be funded by the China Scholarship Council for a joint training program in the research group of Prof. Huang Biao <a, href='https://sites.ualberta.ca/~bhuang/'>, an academician of the Canadian Academy of Engineering.
+From October 2024 to October 2025, he will be funded by the China Scholarship Council for a joint training program in the research group of [Prof. Huang Biao](https://sites.ualberta.ca/~bhuang/), an academician of the Canadian Academy of Engineering.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests include deep learning and artificial intelligence, machine learning and pattern recognition, industrial Big Data and process modeling and control.
 
+<a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+
+# 📖 Educations
+- *2021.09 - 2026.06 (expected)*, *Central South University*, School of Automation，Control Science and Engineering, PhD, Supervisor: [Prof. Yalin Wang](https://faculty.csu.edu.cn/wangyalin/zh_CN/index.htm). 
+- *2024.10 - 2025.10 (expected)*, *University of Alberta*, Department of Chemical and Materials Engineering, Process Control, Visiting PhD Student, Supervisor: [Prof. Huang Biao](https://sites.ualberta.ca/~bhuang/).
+- *2021.09 - 2026.06 (expected)*, *Central South University*, School of Automation，Automation, Bachelor. 
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -32,7 +38,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TII 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -49,10 +55,6 @@ My research interest includes neural machine translation and computer vision. I 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
