@@ -28,9 +28,9 @@ My research interests include deep learning and artificial intelligence, machine
 <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 # 📖 Educations
-- *2021.09 - 2026.06 (expected)*, *Central South University*, School of Automation，Control Science and Engineering, PhD, Supervisor: [Prof. Yalin Wang](https://faculty.csu.edu.cn/wangyalin/zh_CN/index.htm). 
-- *2024.10 - 2025.10 (expected)*, *University of Alberta*, Department of Chemical and Materials Engineering, Process Control, Visiting PhD Student, Supervisor: [Prof. Huang Biao](https://sites.ualberta.ca/~bhuang/).
-- *2021.09 - 2026.06 (expected)*, *Central South University*, School of Automation，Automation, Bachelor. 
+- *2021.09 - 2026.06 (expected)*, **Central South University**, School of Automation，**Control Science and Engineering**, PhD, Supervisor: [Prof. Yalin Wang](https://faculty.csu.edu.cn/wangyalin/zh_CN/index.htm). 
+- *2024.10 - 2025.10 (expected)*, **University of Alberta**, Department of Chemical and Materials Engineering, **Process Control**, Visiting PhD Student, Supervisor: [Prof. Huang Biao](https://sites.ualberta.ca/~bhuang/).
+- *2017.09 - 2021.06 *, **Central South University**, School of Automation，**Automation**, Bachelor. 
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -41,12 +41,12 @@ My research interests include deep learning and artificial intelligence, machine
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TII 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Data Mode Related Interpretable Transformer Network for Predictive Modeling and Key Sample Analysis in Industrial Processes.](https://ieeexplore.ieee.org/abstract/document/9976255)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Diju Liu**, Wang, Yalin and Liu, Chenliang and Yuan, Xiaofeng and Yang, Chunhua and Gui, Weihua
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**Abstract**<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Accurate prediction of quality variables that are difficult to measure is crucial for industrial process control and optimization. However, the fluctuations in raw material quality and production conditions may cause industrial process data to be distributed in multiple working conditions. The data under the same working condition show similar characteristics, which are often defined as one data mode. Hence, the overall process data exhibit multimode characteristics, which brings great challenges in developing a uniform prediction model. Besides, the noninterpretability of the existing data-driven prediction models brings great resistance to their practical application. To address these issues, this article proposes a novel data mode related interpretable transformer network (DMRI-Former) for predictive modeling and key sample analysis in industrial processes. In DMRI-Former, a novel data mode related interpretable self-attention mechanism is designed to enhance the homomode perceptual ability of each individual mode while also capturing cross-mode features of different modes. Moreover, the key samples under different modes can be discovered using DMRI-Former, which further improves the interpretability of the modeling process. Finally, the superiority of the proposed DMRI-Former is verified in two real-world industrial processes compared to other state-of-the-art methods.
 </div>
 </div>
 
