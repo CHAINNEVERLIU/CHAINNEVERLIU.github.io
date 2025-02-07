@@ -31,6 +31,8 @@ My research interests include deep learning and artificial intelligence, machine
 - *2021.09 - 2026.06 (expected)*, **Central South University**, School of Automation，**Control Science and Engineering**, PhD, Supervisor: [Prof. Yalin Wang](https://faculty.csu.edu.cn/wangyalin/zh_CN/index.htm). 
 - *2024.10 - 2025.10 (expected)*, **University of Alberta**, Department of Chemical and Materials Engineering, **Process Control**, Visiting PhD Student, Supervisor: [Prof. Huang Biao](https://sites.ualberta.ca/~bhuang/).
 - *2017.09 - 2021.06 *, **Central South University**, School of Automation，**Automation**, Bachelor. 
+# 🛠️ Project Experience
+- 描述项目经历
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -48,91 +50,6 @@ My research interests include deep learning and artificial intelligence, machine
 9. <span style="background-color:#071a52; color:white; padding:2px 4px; border-radius:3px; font-size:12px;">IEEE Sensors Journal 2021</span> Yijun Wu, **Diju Liu(Co-First Author)**, Xiaofeng Yuan and Yalin Wang, [A Just-in-Time Fine-Tuning Framework for Deep Learning of SAE in Adaptive Data-Driven Modeling of Time-Varying Industrial Processes](https://ieeexplore.ieee.org/abstract/document/9203951). IEEE Sensors Journal, 2021, 21(3):3497-3505, . **([Download PDF](./papers/Sensors2021.pdf))**
 10. <span style="background-color:#071a52; color:white; padding:2px 4px; border-radius:3px; font-size:12px;">ICIEA 2023</span> **Diju Liu**,  Yalin Wang, Chenliang Liu, Kai and Wang and Xiaofeng Yuan, [Intelligent Operational Optimization Method for Salt Lake Chemical Industrial Processes Based on Data-Driven Modeling](https://ieeexplore.ieee.org/abstract/document/10241917).2023 IEEE 18th Conference on Industrial Electronics and Applications (ICIEA), **([Download PDF](./papers/ICIEA2023.pdf))**
 11. <span style="background-color:#071a52; color:white; padding:2px 4px; border-radius:3px; font-size:12px;">NISC 2023</span> **Diju Liu**, Yalin Wang, Chenliang Liu, Kai and Wang and Xiaofeng Yuan, An Integrated System and Application for Salt Lake Chemical Production Management and Control Based on Cloud-Edge- Terminal Collaborative Architecture, 2023 NATIONAL INDUSTRIAL SOFTWARE CONGRESS (NISC), **([Download PDF](./papers/NISC2023.pdf))**
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DMRI-Former, TII 2023 (ESI Top 1% Highly Cited)</div><img src='images/TII2023.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Data Mode Related Interpretable Transformer Network for Predictive Modeling and Key Sample Analysis in Industrial Processes.](https://ieeexplore.ieee.org/abstract/document/9976255) **([Download PDF](./papers/TII2023.pdf))**
-
-**Diju Liu**, Wang, Yalin and Liu, Chenliang and Yuan, Xiaofeng and Yang, Chunhua and Gui, Weihua
-
-**Abstract**<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Proposed a novel data mode-related attention mechanism that enhances the predictive modeling capability for industrial processes.
-
-**Citation**
-- D. Liu, Y. Wang, C. Liu, X. Yuan, C. Yang and W. Gui, Data Mode Related Interpretable Transformer Network for Predictive Modeling and Key Sample Analysis in Industrial Processes\[J\], IEEE Transactions on Industrial Informatics, vol. 19, no. 9, pp. 9325-9336, 2023.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Masked-Former, TASE 2024 (ESI Top 1% Highly Cited)</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Blackout Missing Data Recovery in Industrial Time Series Based on Masked-Former Hierarchical Imputation Framework.](https://ieeexplore.ieee.org/abstract/document/10163894)
-
-**Diju Liu**, Wang, Yalin and Liu, Chenliang and Wang, Kai and Yuan, Xiaofeng and Yang, Chunhua
-
-**Abstract**<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Proposed XXXX.
-
-**Citation**
-- D. Liu, Y. Wang, C. Liu, K. Wang, X. Yuan and C. Yang, Blackout Missing Data Recovery in Industrial Time Series Based on Masked-Former Hierarchical Imputation Framework\[J\], IEEE Transactions on Automation Science and Engineering, vol. 21, no. 2, pp. 1138-1150, 2024.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Multirate-Former, TIM 2024 (ESI Top 1% Highly Cited)</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Multirate-Former: An Efficient Transformer-Based Hierarchical Network for Multistep Prediction of Multirate Industrial Processes.](https://ieeexplore.ieee.org/abstract/document/10313305)
-
-**Diju Liu**, Wang, Yalin and Liu, Chenliang and Yuan, Xiaofeng and Yang, Chunhua
-
-**Abstract**<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Proposed XXXX.
-
-**Citation**
-- D. Liu, Y. Wang, C. Liu, X. Yuan and C. Yang, Multirate-Former: An Efficient Transformer-Based Hierarchical Network for Multistep Prediction of Multirate Industrial Processes\[J\], IEEE Transactions on Instrumentation and Measurement, vol. 73, pp. 1-13, 2024, Art no. 2502313.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SGMCAI-DiT, TKDE 2024 (CCF A)</div><img src='images/TKDE2024.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Scope-Free Global Multi-Condition-Aware Industrial Missing Data Imputation Framework via Diffusion Transformer.](https://ieeexplore.ieee.org/abstract/document/10508098) **([Download PDF](./papers/TKDE2024.pdf))**
-
-**Diju Liu**, Wang, Yalin and Liu, Chenliang and Yuan, Xiaofeng and Wang, Kai and Yang, Chunhua
-
-**Abstract**<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Proposed XXXX.
-
-**Citation**
-- D. Liu, Y. Wang, C. Liu, X. Yuan, K. Wang and C. Yang, Scope-Free Global Multi-Condition-Aware Industrial Missing Data Imputation Framework via Diffusion Transformer\[J\], IEEE Transactions on Knowledge and Data Engineering, vol. 36, no. 11, pp. 6977-6988, 2024.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KSLD-TNet, IEEE Sensors Journal 2024</div><img src='images/TKDE2024.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[KSLD-TNet: Key Sample Location and Distillation Transformer Network for Multistep Ahead Prediction in Industrial Processes.](https://ieeexplore.ieee.org/abstract/document/10341268) **([Download PDF](./papers/Sensors2024.pdf))**
-
-**Diju Liu**, Wang, Yalin and Liu, Chenliang and Yuan, Xiaofeng and Wang, Kai
-
-**Abstract**<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Proposed XXXX.
-
-**Citation**
-- D. Liu, Y. Wang, C. Liu, X. Yuan and K. Wang, KSLD-TNet: Key Sample Location and Distillation Transformer Network for Multistep Ahead Prediction in Industrial Processes\[J\], IEEE Sensors Journal, vol. 24, no. 2, pp. 1792-1802, 15 Jan.15, 2024.
-</div>
-</div>
-
-+ Yalin Wang, **Diju Liu**, Chenliang Liu, Xiaofeng Yuan, Kai Wang, Chunhua Yang, [Dynamic historical information incorporated attention deep learning model for industrial soft sensor modeling\[J\]](https://www.sciencedirect.com/science/article/abs/pii/S1474034622000623), **Advanced Engineering Informatics**, Volume 52, 2022, 101590. **([Download PDF](./papers/AEI2022.pdf))**
-
-+ Xiangyu Peng, Yalin Wang, Chenliang Liu, Lin Guan and **Diju Liu(Corresponding Author)**. [Dynamic-static collaborative strategy for industrial data modeling based on hierarchical deep networks\[J\]](https://iopscience.iop.org/article/10.1088/1361-6501/ac86e6/meta). Measurement Science and Technology, 2022, 33(12): 125010. **([Download PDF](./papers/MST2022.pdf))**
-
-+ Yalin Wang, Rao Dai, **Diju Liu(Corresponding Author)**, Kai Wang, Xiaofeng Yuan and Chenliang Liu. [A task-oriented deep learning framework based on target-related transformer network for industrial quality prediction applications\[J\]](https://iopscience.iop.org/article/10.1088/1361-6501/ac86e6/meta). Engineering Applications of Artificial Intelligence, 2024, 133: 108361. **([Download PDF](./papers/EAAI2024.pdf))**
-
-+ Yijun Wu, **Diju Liu(Co-First Author)**, Xiaofeng Yuan and Yalin Wang. [A Just-in-Time Fine-Tuning Framework for Deep Learning of SAE in Adaptive Data-Driven Modeling of Time-Varying Industrial Processes\[J\]]([https://iopscience.iop.org/article/10.1088/1361-6501/ac86e6/meta](https://ieeexplore.ieee.org/abstract/document/9203951)). IEEE Sensors Journal, vol. 21, no. 3, pp. 3497-3505, 2021. **([Download PDF](./papers/EAAI2024.pdf))**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
