@@ -30,7 +30,9 @@ My research interests include deep learning and artificial intelligence, machine
 # 📖 Educations
 - *2021.09 - 2026.06 (expected)*, **Central South University**, School of Automation，**Control Science and Engineering**, PhD, Supervisor: [Prof. Yalin Wang](https://faculty.csu.edu.cn/wangyalin/zh_CN/index.htm). 
 - *2024.10 - 2025.10 (expected)*, **University of Alberta**, Department of Chemical and Materials Engineering, **Process Control**, Visiting PhD Student, Supervisor: [Prof. Huang Biao](https://sites.ualberta.ca/~bhuang/).
-- *2017.09 - 2021.06 *, **Central South University**, School of Automation，**Automation**, Bachelor. 
+- *2017.09 - 2021.06 *, **Central South University**, School of Automation，**Automation**, Bachelor.
+
+
 # 🛠️ Project Experience
 - 描述项目经历
 
