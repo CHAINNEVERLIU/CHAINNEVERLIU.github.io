@@ -88,13 +88,43 @@ My research interests include deep learning and artificial intelligence, machine
 
 [Scope-Free Global Multi-Condition-Aware Industrial Missing Data Imputation Framework via Diffusion Transformer.](https://ieeexplore.ieee.org/abstract/document/10508098) **([Download PDF](./papers/TKDE2024.pdf))**
 
-**Diju Liu**, Wang, Yalin and Liu, Chenliang and Yuan, Xiaofeng and Wang, Kai and Yang, Chunhua}
+**Diju Liu**, Wang, Yalin and Liu, Chenliang and Yuan, Xiaofeng and Wang, Kai and Yang, Chunhua
 
 **Abstract**<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Proposed XXXX.
 
 **Citation**
 - D. Liu, Y. Wang, C. Liu, X. Yuan, K. Wang and C. Yang, Scope-Free Global Multi-Condition-Aware Industrial Missing Data Imputation Framework via Diffusion Transformer, IEEE Transactions on Knowledge and Data Engineering, vol. 36, no. 11, pp. 6977-6988, 2024.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KSLD-TNet, IEEE Sensors Journal 2024</div><img src='images/TKDE2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[KSLD-TNet: Key Sample Location and Distillation Transformer Network for Multistep Ahead Prediction in Industrial Processes.](https://ieeexplore.ieee.org/abstract/document/10341268) **([Download PDF](./papers/Sensors2024.pdf))**
+
+**Diju Liu**, Wang, Yalin and Liu, Chenliang and Yuan, Xiaofeng and Wang, Kai
+
+**Abstract**<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Proposed XXXX.
+
+**Citation**
+- D. Liu, Y. Wang, C. Liu, X. Yuan and K. Wang, KSLD-TNet: Key Sample Location and Distillation Transformer Network for Multistep Ahead Prediction in Industrial Processes, IEEE Sensors Journal, vol. 24, no. 2, pp. 1792-1802, 15 Jan.15, 2024.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AD-SAE, AEI 2022</div><img src='images/TKDE2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Dynamic historical information incorporated attention deep learning model for industrial soft sensor modeling.](https://www.sciencedirect.com/science/article/abs/pii/S1474034622000623) **([Download PDF](./papers/AEI2022.pdf))**
+
+Yalin Wang, **Diju Liu**, Chenliang Liu, Xiaofeng Yuan, Kai Wang, Chunhua Yang
+
+**Abstract**<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Proposed XXXX.
+
+**Citation**
+- Yalin Wang, Diju Liu, Chenliang Liu, Xiaofeng Yuan, Kai Wang, Chunhua Yang, Dynamic historical information incorporated attention deep learning model for industrial soft sensor modeling, Advanced Engineering Informatics, Volume 52, 2022, 101590.
 </div>
 </div>
 
