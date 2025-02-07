@@ -25,7 +25,7 @@ From October 2024 to October 2025, he will be funded by the China Scholarship Co
 
 My research interests include deep learning and artificial intelligence, machine learning and pattern recognition, industrial Big Data and process modeling and control.
 
-<a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+<a href='https://scholar.google.com.hk/citations?user=wjQ-4AoAAAAJ&hl=zh-CN'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com.hk/citations?user=wjQ-4AoAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 # 📖 Educations
 - *2021.09 - 2026.06 (expected)*, **Central South University**, School of Automation，**Control Science and Engineering**, PhD, Supervisor: [Prof. Yalin Wang](https://faculty.csu.edu.cn/wangyalin/zh_CN/index.htm). 
