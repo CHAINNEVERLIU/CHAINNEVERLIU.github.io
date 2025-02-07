@@ -37,6 +37,12 @@ My research interests include deep learning and artificial intelligence, machine
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
+1. **Diju Liu**, Wang, Yalin and Liu, Chenliang and Yuan, Xiaofeng and Yang, Chunhua and Gui, Weihua, [Data Mode Related Interpretable Transformer Network for Predictive Modeling and Key Sample Analysis in Industrial Processes.](https://ieeexplore.ieee.org/abstract/document/9976255), **IEEE Transactions on Industrial Informatics**, 2022, 19(9): 9325-9336. **([Download PDF](./papers/TII2023.pdf))**
+2. **Diju Liu**, Wang, Yalin and Liu, Chenliang and Wang, Kai and Yuan, Xiaofeng and Yang, Chunhua, [Blackout Missing Data Recovery in Industrial Time Series Based on Masked-Former Hierarchical Imputation Framework.](https://ieeexplore.ieee.org/abstract/document/10163894), **IEEE Transactions on Automation Science and Engineering**, 2023, 21(2): 1138-1150. **([Download PDF](./papers/TII2023.pdf))**
+3. **Diju Liu**, Wang, Yalin and Liu, Chenliang and Yuan, Xiaofeng and Yang, Chunhua, [Multirate-Former: An Efficient Transformer-Based Hierarchical Network for Multistep Prediction of Multirate Industrial Processes.](https://ieeexplore.ieee.org/abstract/document/10313305), **IEEE Transactions on Instrumentation and Measurement**, 2024, 73:2502313. **([Download PDF](./papers/TII2023.pdf))**
+4. **Diju Liu**, Wang, Yalin and Liu, Chenliang and Yuan, Xiaofeng and Wang, Kai and Yang, Chunhua, [Scope-Free Global Multi-Condition-Aware Industrial Missing Data Imputation Framework via Diffusion Transformer.](https://ieeexplore.ieee.org/abstract/document/10508098), IEEE Transactions on Knowledge and Data Engineering, 2024, 36(11): 6977-6988**([Download PDF](./papers/TKDE2024.pdf))**
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">DMRI-Former, TII 2023 (ESI Top 1% Highly Cited)</div><img src='images/TII2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
