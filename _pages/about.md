@@ -49,7 +49,7 @@ My research interests include deep learning and artificial intelligence, machine
 - Proposed a novel data mode-related attention mechanism that enhances the predictive modeling capability for industrial processes.
 
 **Citation**
-- D. Liu, Y. Wang, C. Liu, X. Yuan, C. Yang and W. Gui, Data Mode Related Interpretable Transformer Network for Predictive Modeling and Key Sample Analysis in Industrial Processes, IEEE Transactions on Industrial Informatics, vol. 19, no. 9, pp. 9325-9336, 2023.
+- D. Liu, Y. Wang, C. Liu, X. Yuan, C. Yang and W. Gui, Data Mode Related Interpretable Transformer Network for Predictive Modeling and Key Sample Analysis in Industrial Processes\[J\], IEEE Transactions on Industrial Informatics, vol. 19, no. 9, pp. 9325-9336, 2023.
 </div>
 </div>
 
@@ -64,7 +64,7 @@ My research interests include deep learning and artificial intelligence, machine
 - Proposed XXXX.
 
 **Citation**
-- D. Liu, Y. Wang, C. Liu, K. Wang, X. Yuan and C. Yang, Blackout Missing Data Recovery in Industrial Time Series Based on Masked-Former Hierarchical Imputation Framework, IEEE Transactions on Automation Science and Engineering, vol. 21, no. 2, pp. 1138-1150, 2024.
+- D. Liu, Y. Wang, C. Liu, K. Wang, X. Yuan and C. Yang, Blackout Missing Data Recovery in Industrial Time Series Based on Masked-Former Hierarchical Imputation Framework\[J\], IEEE Transactions on Automation Science and Engineering, vol. 21, no. 2, pp. 1138-1150, 2024.
 </div>
 </div>
 
@@ -79,7 +79,7 @@ My research interests include deep learning and artificial intelligence, machine
 - Proposed XXXX.
 
 **Citation**
-- D. Liu, Y. Wang, C. Liu, X. Yuan and C. Yang, Multirate-Former: An Efficient Transformer-Based Hierarchical Network for Multistep Prediction of Multirate Industrial Processes, IEEE Transactions on Instrumentation and Measurement, vol. 73, pp. 1-13, 2024, Art no. 2502313.
+- D. Liu, Y. Wang, C. Liu, X. Yuan and C. Yang, Multirate-Former: An Efficient Transformer-Based Hierarchical Network for Multistep Prediction of Multirate Industrial Processes\[J\], IEEE Transactions on Instrumentation and Measurement, vol. 73, pp. 1-13, 2024, Art no. 2502313.
 </div>
 </div>
 
@@ -94,7 +94,7 @@ My research interests include deep learning and artificial intelligence, machine
 - Proposed XXXX.
 
 **Citation**
-- D. Liu, Y. Wang, C. Liu, X. Yuan, K. Wang and C. Yang, Scope-Free Global Multi-Condition-Aware Industrial Missing Data Imputation Framework via Diffusion Transformer, IEEE Transactions on Knowledge and Data Engineering, vol. 36, no. 11, pp. 6977-6988, 2024.
+- D. Liu, Y. Wang, C. Liu, X. Yuan, K. Wang and C. Yang, Scope-Free Global Multi-Condition-Aware Industrial Missing Data Imputation Framework via Diffusion Transformer\[J\], IEEE Transactions on Knowledge and Data Engineering, vol. 36, no. 11, pp. 6977-6988, 2024.
 </div>
 </div>
 
@@ -109,15 +109,17 @@ My research interests include deep learning and artificial intelligence, machine
 - Proposed XXXX.
 
 **Citation**
-- D. Liu, Y. Wang, C. Liu, X. Yuan and K. Wang, KSLD-TNet: Key Sample Location and Distillation Transformer Network for Multistep Ahead Prediction in Industrial Processes, IEEE Sensors Journal, vol. 24, no. 2, pp. 1792-1802, 15 Jan.15, 2024.
+- D. Liu, Y. Wang, C. Liu, X. Yuan and K. Wang, KSLD-TNet: Key Sample Location and Distillation Transformer Network for Multistep Ahead Prediction in Industrial Processes\[J\], IEEE Sensors Journal, vol. 24, no. 2, pp. 1792-1802, 15 Jan.15, 2024.
 </div>
 </div>
 
--[Yalin Wang, **Diju Liu**, Chenliang Liu, Xiaofeng Yuan, Kai Wang, Chunhua Yang, Dynamic historical information incorporated attention deep learning model for industrial soft sensor modeling, **Advanced Engineering Informatics**, Volume 52, 2022, 101590](https://www.sciencedirect.com/science/article/abs/pii/S1474034622000623) **([Download PDF](./papers/AEI2022.pdf))**
++ Yalin Wang, **Diju Liu**, Chenliang Liu, Xiaofeng Yuan, Kai Wang, Chunhua Yang, [Dynamic historical information incorporated attention deep learning model for industrial soft sensor modeling\[J\]](https://www.sciencedirect.com/science/article/abs/pii/S1474034622000623), **Advanced Engineering Informatics**, Volume 52, 2022, 101590. **([Download PDF](./papers/AEI2022.pdf))**
 
--[Xiangyu Peng, Yalin Wang, Chenliang Liu, Lin Guan and **Diju Liu(Corresponding Author)**. Dynamic-static collaborative strategy for industrial data modeling based on hierarchical deep networks[J]. Measurement Science and Technology, 2022, 33(12): 125010.](https://iopscience.iop.org/article/10.1088/1361-6501/ac86e6/meta) **([Download PDF](./papers/MST2022.pdf))**
++ Xiangyu Peng, Yalin Wang, Chenliang Liu, Lin Guan and **Diju Liu(Corresponding Author)**. [Dynamic-static collaborative strategy for industrial data modeling based on hierarchical deep networks\[J\]](https://iopscience.iop.org/article/10.1088/1361-6501/ac86e6/meta). Measurement Science and Technology, 2022, 33(12): 125010. **([Download PDF](./papers/MST2022.pdf))**
 
--[Yalin Wang, Rao Dai, **Diju Liu(Corresponding Author)**, Kai Wang, Xiaofeng Yuan and Chenliang Liu. A task-oriented deep learning framework based on target-related transformer network for industrial quality prediction applications\[J\]. Engineering Applications of Artificial Intelligence, 2024, 133: 108361.](https://iopscience.iop.org/article/10.1088/1361-6501/ac86e6/meta) **([Download PDF](./papers/EAAI2024.pdf))**
++ Yalin Wang, Rao Dai, **Diju Liu(Corresponding Author)**, Kai Wang, Xiaofeng Yuan and Chenliang Liu. [A task-oriented deep learning framework based on target-related transformer network for industrial quality prediction applications\[J\]](https://iopscience.iop.org/article/10.1088/1361-6501/ac86e6/meta). Engineering Applications of Artificial Intelligence, 2024, 133: 108361. **([Download PDF](./papers/EAAI2024.pdf))**
+
++ Yijun Wu, **Diju Liu(Co-First Author)**, Xiaofeng Yuan and Yalin Wang. [A Just-in-Time Fine-Tuning Framework for Deep Learning of SAE in Adaptive Data-Driven Modeling of Time-Varying Industrial Processes\[J\]]([https://iopscience.iop.org/article/10.1088/1361-6501/ac86e6/meta](https://ieeexplore.ieee.org/abstract/document/9203951)). IEEE Sensors Journal, vol. 21, no. 3, pp. 3497-3505, 2021. **([Download PDF](./papers/EAAI2024.pdf))**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
