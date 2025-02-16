@@ -27,10 +27,15 @@ My research interests include deep learning and artificial intelligence, machine
 
 <a href='https://scholar.google.com.hk/citations?user=wjQ-4AoAAAAJ&hl=zh-CN'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com.hk/citations?user=wjQ-4AoAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
+# 🚀Research Interests
+- **Data Mining & Modeling**:
+- **Reinforcement Learning based Optimization**:
+- **Pattern Recognition**:
+
 # 📖 Educations
-- *2021.09 - 2026.06 (expected)*, **Central South University**, School of Automation，**Control Science and Engineering**, PhD, Supervisor: [Prof. Yalin Wang](https://faculty.csu.edu.cn/wangyalin/zh_CN/index.htm). 
-- *2024.10 - 2025.10 (expected)*, **University of Alberta**, Department of Chemical and Materials Engineering, **Process Control**, Visiting PhD Student, Supervisor: [Prof. Huang Biao](https://sites.ualberta.ca/~bhuang/).
-- *2017.09 - 2021.06 *, **Central South University**, School of Automation，**Automation**, Bachelor.
+- **2021.09 - 2026.06 (expected)**, **Central South University**, School of Automation，**Control Science and Engineering**, PhD, Supervisor: [Prof. Yalin Wang](https://faculty.csu.edu.cn/wangyalin/zh_CN/index.htm). 
+- **2024.10 - 2025.10 (expected)**, **University of Alberta**, Department of Chemical and Materials Engineering, **Process Control**, Visiting PhD Student, Supervisor: [Prof. Biao Huang](https://sites.ualberta.ca/~bhuang/).
+- **2017.09 - 2021.06**, **Central South University**, School of Automation，**Automation**, Bachelor.
 
 
 # 🛠️ Project Experience
