@@ -31,9 +31,9 @@ redirect_from:
 - **Pattern Recognition**:
 
 # 📖 Educations
-- **2021.09 - 2026.06 (expected)** | **Central South University** | School of Automation | **Control Science and Engineering**, PhD | Supervisor: [Prof. Yalin Wang](https://faculty.csu.edu.cn/wangyalin/zh_CN/index.htm). 
-- **2024.10 - 2025.10 (expected)** | **University of Alberta** | Department of Chemical and Materials Engineering | **Process Control**, Visiting PhD Student | Supervisor: [Prof. Biao Huang](https://sites.ualberta.ca/~bhuang/).
-- **2017.09 - 2021.06** | **Central South University** | School of Automation | **Automation**, Bachelor.
+- **2021.09 - 2026.06 (expected)** &#124; **Central South University** &#124; School of Automation &#124; **Control Science and Engineering**, PhD &#124; Supervisor: [Prof. Yalin Wang](https://faculty.csu.edu.cn/wangyalin/zh_CN/index.htm). 
+- **2024.10 - 2025.10 (expected)** &#124; **University of Alberta** &#124; Department of Chemical and Materials Engineering &#124; **Process Control**, Visiting PhD Student &#124; Supervisor: [Prof. Biao Huang](https://sites.ualberta.ca/~bhuang/).
+- **2017.09 - 2021.06** &#124; **Central South University** &#124; School of Automation &#124; **Automation**, Bachelor.
 
 
 # 🛠️ Project Experience
