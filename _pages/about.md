@@ -17,15 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 🚩 About Me
-During his Ph.D. studies, under the guidance of [Prof. Yalin Wang](https://faculty.csu.edu.cn/wangyalin/zh_CN/index.htm), he focused on intelligent sensing and optimization of chemical processes in Salt Lake resource utilization. He developed an integrated production control system, which has been successfully implemented in the world's largest single potassium sulfate producer, significantly enhancing operational efficiency and generating substantial socio-economic benefits.
+  During my Ph.D. studies, under the guidance of [Prof. Yalin Wang](https://faculty.csu.edu.cn/wangyalin/zh_CN/index.htm), I focused on intelligent sensing and optimization of chemical processes in Salt Lake resource utilization. I developed an integrated production control system, which has been successfully implemented in the world's largest single potassium sulfate producer, significantly enhancing operational efficiency and generating substantial socio-economic benefits.
 
-He has published 11 academic papers as the first or corresponding author, including 9 SCI-indexed journal articles, 3 ESI top 1% highly cited papers, and holds 6 authorized or applied invention patents. Additionally, he has registered 3 software copyrights, contributed to the formulation of 2 group standards, led a postgraduate scientific research and innovation project in Hunan Province, and received 5 national discipline competition awards.
+  I have published 11 academic papers as the first or corresponding author, including 9 SCI-indexed journal articles, 3 ESI top 1% highly cited papers, and holds 6 authorized or applied invention patents. Additionally, I have registered 3 software copyrights, contributed to the formulation of 2 group standards, led a postgraduate scientific research and innovation project in Hunan Province, and received 5 national discipline competition awards.
 
-From October 2024 to October 2025, he will be funded by the China Scholarship Council for a joint training program in the research group of [Prof.Biao Huang](https://sites.ualberta.ca/~bhuang/), an academician of the Canadian Academy of Engineering.
+  From October 2024 to October 2025, I am funded by the China Scholarship Council for a joint training program in the research group of [Prof.Biao Huang](https://sites.ualberta.ca/~bhuang/), an academician of the Canadian Academy of Engineering.
 
-My research interests include deep learning and artificial intelligence, machine learning and pattern recognition, industrial Big Data and process modeling and control.
-
-<a href='https://scholar.google.com.hk/citations?user=wjQ-4AoAAAAJ&hl=zh-CN'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com.hk/citations?user=wjQ-4AoAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+  My research interests include data mining & modeling, reinforcement learning based optimization and pattern recognition in the field of industrial process control.<a href='https://scholar.google.com.hk/citations?user=wjQ-4AoAAAAJ&hl=zh-CN'>google scholar citations 
+  
+  
+  <strong><span id='total_cit'>260000+</span></strong>
+  
+  </a> (You can also use google scholar badge <a href='https://scholar.google.com.hk/citations?user=wjQ-4AoAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 # 🚀Research Interests
 - **Data Mining & Modeling**:
