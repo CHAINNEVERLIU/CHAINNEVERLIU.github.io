@@ -21,7 +21,7 @@ During his Ph.D. studies, under the guidance of [Prof. Yalin Wang](https://facul
 
 He has published 11 academic papers as the first or corresponding author, including 9 SCI-indexed journal articles, 3 ESI top 1% highly cited papers, and holds 6 authorized or applied invention patents. Additionally, he has registered 3 software copyrights, contributed to the formulation of 2 group standards, led a postgraduate scientific research and innovation project in Hunan Province, and received 5 national discipline competition awards.
 
-From October 2024 to October 2025, he will be funded by the China Scholarship Council for a joint training program in the research group of [Prof. Huang Biao](https://sites.ualberta.ca/~bhuang/), an academician of the Canadian Academy of Engineering.
+From October 2024 to October 2025, he will be funded by the China Scholarship Council for a joint training program in the research group of [Prof.Biao Huang](https://sites.ualberta.ca/~bhuang/), an academician of the Canadian Academy of Engineering.
 
 My research interests include deep learning and artificial intelligence, machine learning and pattern recognition, industrial Big Data and process modeling and control.
 
@@ -33,13 +33,16 @@ My research interests include deep learning and artificial intelligence, machine
 - **Pattern Recognition**:
 
 # 📖 Educations
-- **2021.09 - 2026.06 (expected)**, **Central South University**, School of Automation，**Control Science and Engineering**, PhD, Supervisor: [Prof. Yalin Wang](https://faculty.csu.edu.cn/wangyalin/zh_CN/index.htm). 
-- **2024.10 - 2025.10 (expected)**, **University of Alberta**, Department of Chemical and Materials Engineering, **Process Control**, Visiting PhD Student, Supervisor: [Prof. Biao Huang](https://sites.ualberta.ca/~bhuang/).
-- **2017.09 - 2021.06**, **Central South University**, School of Automation，**Automation**, Bachelor.
+- **2021.09 - 2026.06 (expected)** | **Central South University** | School of Automation | **Control Science and Engineering**, PhD | Supervisor: [Prof. Yalin Wang](https://faculty.csu.edu.cn/wangyalin/zh_CN/index.htm). 
+- **2024.10 - 2025.10 (expected)** | **University of Alberta** | Department of Chemical and Materials Engineering | **Process Control**, Visiting PhD Student | Supervisor: [Prof. Biao Huang](https://sites.ualberta.ca/~bhuang/).
+- **2017.09 - 2021.06** | **Central South University** | School of Automation | **Automation**, Bachelor.
 
 
 # 🛠️ Project Experience
-- 描述项目经历
+- **项目1**:
+- **项目2**：
+- **项目3**：
+- **项目4**：
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
