@@ -23,7 +23,7 @@ redirect_from:
 
   From October 2024 to October 2025, I am funded by the China Scholarship Council for a joint training program in the research group of [Prof.Biao Huang](https://sites.ualberta.ca/~bhuang/), an academician of the Canadian Academy of Engineering.
 
-  My research interests include data mining & modeling, reinforcement learning based optimization and pattern recognition in the field of industrial process control<a href='https://scholar.google.com.hk/citations?user=wjQ-4AoAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">.
+  My research interests include data mining & modeling, reinforcement learning based optimization and pattern recognition in the field of industrial process control <a href='https://scholar.google.com.hk/citations?user=wjQ-4AoAAAAJ&hl=zh-CN'><img src="https://github.com/CHAINNEVERLIU/CHAINNEVERLIU.github.io/blob/main/images/google-scholar.256x256.png">.
   
 # 🚀Research Interests
 - **Data Mining & Modeling**:
