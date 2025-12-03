@@ -23,19 +23,20 @@ redirect_from:
  <!-- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a> -->
 
 
+<span class='anchor' id='-education'></span>
+
 # 🎓 教育经历
 - *2021.06 - 2025.12*: <a href="https://www.csu.edu.cn/"><img class="png" src="/images/csu_logo_2.png" width="23pt"></a> 中南大学 \| 控制科学与工程 \| 自动化学院 \| 湖南长沙 \| 博士
 - *2024.10 - 2025.10*: <a href="https://www.ualberta.ca/en/index.html"><img class="png" src="/images/ua_logo.png" width="23pt"></a> 阿尔伯塔大学 \| 过程控制 \| 化学与材料工程学院 \| 加拿大埃德蒙顿 \| 访问博士
 - *2017.09 - 2021.06*: <a href="https://www.csu.edu.cn/"><img class="png" src="/images/csu_logo_2.png" width="20pt"></a> 中南大学 \| 自动化 \| 自动化学院 \| 湖南长沙 \| 本科
  
-<span class='anchor' id='-lwzl'></span>
+<span class='anchor' id='-area'></span>
 
 # 💡 研究方向
 - 工业建模与优化
 - 强化学习
 
-<span class='anchor' id='-xl'></span>
-
+<span class='anchor' id='-papers'></span>
 
 # 📝 已发表论文
 
