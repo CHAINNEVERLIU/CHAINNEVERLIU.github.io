@@ -45,26 +45,24 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2024</div><img src='images/TKDE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Diju Liu`, Yalin Wang, Chenliang Liu, Xiaofeng Yuan, Kai Wang, Chunhua Yang. [[Scope-Free Global Multi-Condition-Aware Industrial Missing Data Imputation Framework via Diffusion Transformer]](https://ieeexplore.ieee.org/abstract/document/10508098). *IEEE Transactions on Knowledge and Data Engineering*, 2024, 36(11): 6977-6988. (JCR:Q1; IF:10.4)  
+-	`Diju Liu`, Yalin Wang, Chenliang Liu, Xiaofeng Yuan, Kai Wang, Chunhua Yang. [Scope-Free Global Multi-Condition-Aware Industrial Missing Data Imputation Framework via Diffusion Transformer](https://ieeexplore.ieee.org/abstract/document/10508098). *IEEE Transactions on Knowledge and Data Engineering*, 2024, 36(11): 6977-6988. (JCR:Q1; IF:10.4)  
 <!-- [[网页]](https://ieeexplore.ieee.org/abstract/document/10508098) [[预览]](https://github.com/CHAINNEVERLIU/CHAINNEVERLIU.github.io/docs/TKDE.pdf) [[下载]](docs/TKDE.pdf) -->
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sens. Actuators Phys. 2021</div><img src='images/sna2021.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2025</div><img src='images/TNNLS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Jian Tang`, Rongbiao Wang, Bocheng Liu, Yihua Kang. A novel magnetic flux leakage method based on the ferromagnetic lift-off layer with through groove. *Sensors and Actuators A: Physical*. 2021: 113091. (JCR:Q1; IF:4.291)  
-[[网页]](https://dx.doi.org/10.1016/j.sna.2021.113091) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf) [[下载]](/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf)
+-	`Diju Liu`, Yalin Wang, Chenliang Liu, Biao Luo, Biao Huang. [Spatiotemporal Topology-Informed Multiagent Reinforcement Learning Framework for Structured Multiprocess Collaborative Optimization](https://ieeexplore.ieee.org/document/11271840). *IEEE Transactions on Neural Networks and Learning Systems*, 2025, early access, doi:10.1109/TNNLS.2025.3633880. (JCR:Q1; IF:8.9)  
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Int. J. Appl. Electrom. 2020</div><img src='images/ijaem2020.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCYB 2025</div><img src='images/TCYB.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Jian Tang`, Rongbiao Wang, Jikai Zhang, Yihua Kang. The influence of magnetic head’s pose on magnetic flux leakage detection. *International Journal of Applied Electromagnetics and Mechanics*. 2020, 64(1–4): 493–500. (JCR:Q4; IF:0.536)  
-[[网页]](https://dx.doi.org/10.3233/JAE-209356) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2020-The%20influence%20of%20magnetic%20head%E2%80%99s%20pose%20on%20magnetic%20flux%20leakage%20detection.pdf) [[下载]](/pdf/TangJ-2020-The%20influence%20of%20magnetic%20head%E2%80%99s%20pose%20on%20magnetic%20flux%20leakage%20detection.pdf)
+-	`Diju Liu`, Yalin Wang, Chenliang Liu, Biao Luo, Biao Huang. [EKG-AC: A New Paradigm for Process Industrial Optimization Based on Offline Reinforcement Learning With Expert Knowledge Guidance](https://ieeexplore.ieee.org/document/110827550). *IEEE Transactions on Cybernetics*, 2025, early access, doi:10.1109/TCYB.2025.3579361. (JCR:Q1; IF:10.5)  
 
 </div>
 </div>
