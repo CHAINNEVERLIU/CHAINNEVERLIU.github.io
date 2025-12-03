@@ -17,7 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我将博士毕业于湖北武汉的 华中科技大学 机械科学与工程学院，我的导师是康宜华教授。本科毕业于四川成都的 四川大学 制造科学与工程学院（现机械工程学院）。包括合著，我已经发表 20+ 篇学术论文
+# 🌏 个人简介
+
+博士期间，依托导师的国家重点研发计划项目和国自科重大研究计划重点项目，聚焦盐湖化工过程智能感知与优化调
+控问题开展科学研究，研发了一套生产管控一体化系统，并成功应用于相关企业，社
+会经济效益显著。以第一/通讯作者发表学术论文12篇，其中SCI期刊论文10篇， ESI前1%高被引论文3篇，授权/申请发明专利6项，登记软著3项，参与制定团体标准2项，主持湖南省研究生科研创新项目1项，获国家级学科竞赛奖励5项， 2024年10月-2025年10月受国家留学基金委资助在加拿大工程院院士黄彪教授课题组联合培养。
  <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 我的研究领域包括：
