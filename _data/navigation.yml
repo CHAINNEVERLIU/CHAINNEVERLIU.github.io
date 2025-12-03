@@ -1,16 +1,16 @@
-# main links links
+# main links links  /CHAINNEVERLIU.github.io/
 main:
   - title: "简介"
     url: "#about-me"
 
   - title: "教育经历"
-    url: "/CHAINNEVERLIU.github.io/#-education"
+    url: "#-education"
 
   - title: "研究方向"
-    url: "/CHAINNEVERLIU.github.io/#-area"
+    url: "#-area"
 
   - title: "已发表论文"
-    url: "/CHAINNEVERLIU.github.io/#-papers"
+    url: "#-papers"
 
   - title: "荣誉奖项"
     url: "#-ryjx"
