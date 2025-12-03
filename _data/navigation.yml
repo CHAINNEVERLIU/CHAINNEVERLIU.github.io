@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "简介"
-    url: "/CHAINNEVERLIU.github.io/#about-me"
+    url: "#about-me"
 
   - title: "教育经历"
     url: "/CHAINNEVERLIU.github.io/#-education"
