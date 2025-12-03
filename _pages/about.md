@@ -42,11 +42,11 @@ redirect_from:
 
 ### 期刊论文
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Knowledge and Data Engineering 2024</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2024</div><img src='images/TKDE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Diju Liu`, Yalin Wang, Chenliang Liu, Xiaofeng Yuan, Kai Wang, Chunhua Yang. Scope-Free Global Multi-Condition-Aware Industrial Missing Data Imputation Framework via Diffusion Transformer. *IEEE Transactions on Knowledge and Data Engineering*, 2024, 36(11): 6977-6988. (JCR:Q1; IF:10.4)  
-[[网页]](https://ieeexplore.ieee.org/abstract/document/10508098) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[下载]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+[[网页]](https://ieeexplore.ieee.org/abstract/document/10508098) [[预览]](https://github.com/tangjyan/CHAINNEVERLIU.github.io/docs/TKDE.pdf) [[下载]](/docs/TKDE.pdf)
 
 </div>
 </div>
