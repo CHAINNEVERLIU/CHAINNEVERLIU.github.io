@@ -45,8 +45,8 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2024</div><img src='images/TKDE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Diju Liu`, Yalin Wang, Chenliang Liu, Xiaofeng Yuan, Kai Wang, Chunhua Yang. Scope-Free Global Multi-Condition-Aware Industrial Missing Data Imputation Framework via Diffusion Transformer. *IEEE Transactions on Knowledge and Data Engineering*, 2024, 36(11): 6977-6988. (JCR:Q1; IF:10.4)  
-[[网页]](https://ieeexplore.ieee.org/abstract/document/10508098) [[预览]](https://github.com/CHAINNEVERLIU/CHAINNEVERLIU.github.io/docs/TKDE.pdf) [[下载]](docs/TKDE.pdf)
+-	`Diju Liu`, Yalin Wang, Chenliang Liu, Xiaofeng Yuan, Kai Wang, Chunhua Yang. [[Scope-Free Global Multi-Condition-Aware Industrial Missing Data Imputation Framework via Diffusion Transformer]](https://ieeexplore.ieee.org/abstract/document/10508098). *IEEE Transactions on Knowledge and Data Engineering*, 2024, 36(11): 6977-6988. (JCR:Q1; IF:10.4)  
+<!-- [[网页]](https://ieeexplore.ieee.org/abstract/document/10508098) [[预览]](https://github.com/CHAINNEVERLIU/CHAINNEVERLIU.github.io/docs/TKDE.pdf) [[下载]](docs/TKDE.pdf) -->
 
 </div>
 </div>
