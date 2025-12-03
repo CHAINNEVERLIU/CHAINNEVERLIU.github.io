@@ -20,30 +20,26 @@ redirect_from:
 # 🌏 个人简介
 
 博士期间，依托导师的国家重点研发计划项目和国自科重大研究计划重点项目，聚焦盐湖化工过程智能感知与优化调控问题开展科学研究，研发了一套生产管控一体化系统，并成功应用于相关企业，社会经济效益显著。以第一/通讯作者发表学术论文12篇，其中SCI期刊论文10篇， ESI前1%高被引论文3篇，授权/申请发明专利6项，登记软著3项，参与制定团体标准2项，主持湖南省研究生科研创新项目1项，获国家级学科竞赛奖励5项， 2024年10月-2025年10月受国家留学基金委资助在加拿大工程院院士黄彪教授课题组联合培养。
- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
-
-我的研究领域包括：
-- 仪器仪表
-- 机械工程
-- 电磁无损检测
-- 漏磁检测
-- 涡流检测
-- 磁传感器
-- 无损检测装备开发
-  
+ <!-- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a> -->
 
 
-<span class='anchor' id='-xl'></span>
-
-# 🎓 学历
-- *2016.06 - 2022.12*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 华中科技大学 机械科学与工程学院, 湖北武汉, 推免直博 
-- *2012.09 - 2016.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 四川大学 制造科学与工程学院, 四川成都, 本科
+# 🎓 教育经历
+- *2021.06 - 2025.12*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 中南大学 控制科学与工程, 自动化学院, 湖南长沙, 博士
+- *2024.10 - 2025.10*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 阿尔伯塔大学 过程控制, 化学与材料工程学院, 加拿大埃德蒙顿, 访问博士
+- *2017.09 - 2021.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 中南大学 自动化, 自动化学院, 湖南长沙, 本科
  
 <span class='anchor' id='-lwzl'></span>
 
-# 📝 论文专利
+# 💡 研究方向
+- 工业建模与优化
+- 强化学习
 
-### 英文
+<span class='anchor' id='-xl'></span>
+
+
+# 📝 已发表论文
+
+### 期刊论文
 ---
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
