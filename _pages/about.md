@@ -67,6 +67,14 @@ redirect_from:
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TII 2023</div><img src='images/TII.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	`Diju Liu`, Yalin Wang, Chenliang Liu, Xiaofeng Yuan, Chunhua Yang, Weihua Gui. [Data mode related interpretable transformer network for predictive modeling and key sample analysis in industrial processes](https://ieeexplore.ieee.org/abstract/document/9976255). *IEEE Transactions on Industrial Informatics*, 2023, 19(9): 9325-9336. (JCR:Q1; IF:9.9)  
+
+</div>
+</div>
+
 
 - Bo Feng, Jianbo Wu, Hongming Tu, `Jian Tang`, Yihua Kang. A Review of Magnetic Flux Leakage Nondestructive Testing. *Materials*. 2022, 15 (20): 7362. (JCR:Q1; IF:3.748)  
 [[网页]](https://dx.doi.org/10.3390/ma15207362) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf) [[下载]](/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf)
